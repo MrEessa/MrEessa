@@ -1,4 +1,4 @@
-# Hey, I'm Eessa 👋
+# Hi, I'm Eessa 👋
 
 **Head of Product Strategy @ S&P Global** — I build registry infrastructure for carbon and renewable energy markets.
 
