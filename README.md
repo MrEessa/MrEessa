@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey, I'm Eessa 👋
 
-<!--
-**MrEessa/MrEessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Head of Product Strategy @ S&P Global** — I build registry infrastructure for carbon and renewable energy markets.
 
-Here are some ideas to get you started:
+10 years in the UK sutainability sector, with a more recent focus in scaling B2B SaaS in regulated markets. I've launched 0→1 registry products, grown platforms to £17.6M revenue, and expanded market presence across 60+ countries. Currently upskilling in Python and Go, and using AI tools (Claude Code, Cursor, Lovable) to build and ship faster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about marrying high-level strategy with ground-level execution. Strategy as a discipline is really interesting to me and when I consider the customer focus, my efforts in Strategy has helped me not only diagnose the core problems but also act upon coherent actions to tackle said problems. 
+
+---
+
+## 🔧 What I Work On
+
+- **Environmental registry platforms** — carbon standards, I-REC(E), multi-attribute certificate registries
+- **Compliance-grade product strategy** — Article 6, ICVCM, voluntary carbon markets
+- **API-led product development** — grew an API partner programme from 5 → 50 market players
+- **AI-accelerated prototyping** — cutting stakeholder validation cycles from days to hours
+- **Side projects** — bootstrapping a B2B micro-SaaS using AI-assisted engineering
+
+---
+
+## 🛠 Tools & Stack
+
+`Python` `SQL` `Go (learning)` `Figma` `Cursor` `Claude Code` `Lovable` `VS Code` `Azure DevOps` `JIRA`
+
+---
+
+## 📫 Find Me
+
+[LinkedIn](https://linkedin.com/in/eessamansoor)
