@@ -4,7 +4,7 @@
 
 10 years in the UK sutainability sector, with a more recent focus in scaling B2B SaaS in regulated markets. I've launched 0→1 registry products, grown platforms to £17.6M revenue, and expanded market presence across 60+ countries. Currently upskilling in Python and Go, and using AI tools (Claude Code, Cursor, Lovable) to build and ship faster.
 
-Passionate about marrying high-level strategy with ground-level execution. Strategy as a discipline is really interesting to me and when I consider the customer focus, my efforts in Strategy has helped me not only diagnose the core problems but also act upon coherent actions to tackle said problems. 
+Passionate about marrying high-level strategy with ground-level execution. Strategy as a discipline is really interesting to me and when I consider the customer focus, my efforts in Strategy has helped me not only diagnose the core problems but also act upon coherent actions to tackle said problems. No fluff; just direct locked in execution. 
 
 ---
 
