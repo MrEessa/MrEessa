@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 What I Work On
+## 🔧 What I've Worked On
 
 - **Environmental registry platforms** — carbon standards, I-REC(E), multi-attribute certificate registries
 - **Compliance-grade product strategy** — Article 6, ICVCM, voluntary carbon markets
