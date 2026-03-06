@@ -22,7 +22,7 @@ Passionate about marrying high-level strategy with ground-level execution. Strat
 
 `Python (continuously improving)` `SQL` `Go (learning)` `Figma` `Cursor` `Claude Code` `Lovable` `VS Code` `Azure DevOps` `JIRA` `Lucid` `Miro`
 
-## Core Competencies
+## 🎧 Core Competencies
 
 `Strategy & Vision` `Product-led Growth` `GTM Strategy` `Market Analysis` `M&A Integration` `Regulatory Compliance` `Roadmap Planning`
 
