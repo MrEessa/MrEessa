@@ -29,3 +29,6 @@
 ## 📫 Find Me
 
 [LinkedIn](https://linkedin.com/in/eessamansoor)
+
+[![DevDNA](https://thedevdna.vercel.app/api/dev-dna?username=Mreessa&theme=synthwave)](https://thedevdna.vercel.app)
+
