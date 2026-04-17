@@ -8,17 +8,17 @@
 
 ## 🔧 What I've Worked On
 
-- **Environmental registry platforms** — carbon standards, I-REC(E), multi-attribute certificate registries
-- **Compliance-grade product strategy** — Article 6, ICVCM, voluntary carbon markets
-- **API-led product development** — grew an API partner programme from 5 → 50 market players
-- **AI-accelerated prototyping** — cutting stakeholder validation cycles from days to hours
-- **Side projects** — bootstrapping a B2B micro-SaaS using AI-assisted engineering
+- **Environmental registry platforms** - carbon standards, I-REC(E), multi-attribute certificate registries
+- **Compliance-grade product strategy** - Article 6, ICVCM, voluntary carbon markets
+- **API-led product development** - grew an API partner programme from 5 → 50 market players
+- **AI-accelerated prototyping** - cutting stakeholder validation cycles from days to hours
+- **Side projects** - bootstrapping a B2B micro-SaaS using AI-assisted engineering
 
 ---
 
 ## 🛠 Tools & Stack
 
-`Python (continuously improving)` `SQL` `Go (learning)` `Figma` `Cursor` `Claude Code` `Lovable` `VS Code` `Azure DevOps` `JIRA` `Lucid` `Miro`
+`Python (continuously improving)` `SQL` `Go (learning)` `Figma` `Cursor` `Claude Code` `Vercel` `Lovable` `VS Code` `Azure DevOps` `JIRA` `Lucid` `Miro`
 
 ## 🎧 Core Competencies
 
