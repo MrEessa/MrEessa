@@ -28,7 +28,7 @@ As a product builder, the technical decisions underneath my product roadmaps mat
  
 ## Stack
  
-`Python` `SQL` `Figma` `Cursor` `Claude Code` `VS Code` `Azure DevOps` `Lovable` `Vercel`
+`Python` `SQL` `Figma` `Cursor` `Claude Code` `VS Code` `Azure DevOps` `JIRA` `Lovable` `Vercel` `Postman` `Notion`
  
 ---
 
