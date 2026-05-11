@@ -2,11 +2,11 @@
 
 PM by trade. I write some code too, which changes how I do the PM part.
  
-I lead product strategy (and love all things strategy) at S&P Global. Following an education in the environmental and energy field, my domain for the last ten years has been in the carbon and renewable energy markets. Regulated, technical, B2B. 
+I lead product strategy (and love building strategy!) at S&P Global. Following my education in the environmental and energy fields, my domain for the last ten years has been in the carbon and renewable energy markets. Regulated, technical, B2B. 
  
-I'm increasingly hands-on with AI adoption - embedding it into what I build, using it to reshape how I work and deliver, and applying it in my own leadership practice. With Claude Code and Cursor or Lovable, I'm prototyping faster and getting to something tangible. What used to take days or even weeks, I'm now handling in a few hours.
+I'm increasingly hands-on with AI adoption - embedding it into what I build both professionally and for personal project. It's reshaped how I work and deliver and I've taken great strides to apply it when working cross-functionally. With Claude Code and Cursor or Lovable, I'm prototyping faster and what used to take days or even weeks, I'm now handling in a few hours.
  
-As a product builder, the technical decisions underneath a roadmap matter to me. 
+Nevertheless, as a product builder, the technical decisions underneath my product roadmaps matter a great deal to me. 
  
 ---
  
