@@ -12,10 +12,10 @@ As a product builder, the technical decisions underneath my product roadmaps mat
  
 ## What I've Worked On
  
-- **Carbon and renewable energy registries** — I-REC(E), Article 6, ICVCM, CORSIA, multi-attribute certificate platforms operating across 60+ countries
-- **API-led growth** — took a partner programme from 5 players to 50 multinationals
-- **0→1 product launches** — compliance-grade infrastructure in markets with no margin for error
-- **AI-accelerated prototyping** — cutting the gap between an idea and something stakeholders can react to
+- **Carbon and renewable energy registries** - I-REC(E), Article 6, ICVCM, CORSIA, multi-attribute certificate platforms operating across 60+ countries
+- **API-led growth** - took a partner programme from 5 players to 50 multinationals
+- **0→1 product launches** - compliance-grade infrastructure in markets with no margin for error
+- **AI-accelerated prototyping** - cutting the gap between an idea and something stakeholders can react to
 ---
 
 ## Things I Think About
