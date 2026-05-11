@@ -33,7 +33,10 @@ As a product builder, the technical decisions underneath my product roadmaps mat
 ---
 
 ## Projects In Mind at the Moment
-- Recently built a revamp for Sheffield Library's search functionality. I was struggling with their native website UI, there were 3000+ records of CDs available but categorising and listing them all in a neat way was next to impossible. [Built a tool in an afternoon and away we go](https://github.com/MrEessa/sheffieldlibrary)! 
+- Built out a portfolio demo of what an end-to-end Configure, Price, Quote (CPQ) platform in the energy market could look like. Given my expertise in the energy market, this was a fun project to create and I'm still fleshing out the logic inside. [CPQ](https://github.com/MrEessa/CPQ)
+- A micro-SaaS for candidate AI shortlisting - this was a particular fun project embedding Google Gemini to support with the analysis of CVs to roles. Still in the works, message me for a demo.
+- Recently built a revamp for Sheffield Library's search functionality. I was struggling with their native website UI, there were 3000+ records of CDs available but categorising and listing them all in a neat way was next to impossible. [Built a tool in an afternoon and away we go](https://github.com/MrEessa/sheffieldlibrary)!
+- A crypto-finance calculator tool. Connected via a series of APIs to a simple React webpage where the user can track prices of various cryptocurrencies and build out exit scenario modelling. One of the first projects I made with Lovable back in late 2024/early 2025. [CoinVision](https://github.com/MrEessa/coinvision)
 
 ---
 
