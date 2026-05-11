@@ -32,6 +32,11 @@ As a product builder, the technical decisions underneath my product roadmaps mat
  
 ---
 
+## Projects In Mind at the Moment
+- Recently built a revamp for Sheffield Library's search functionality. I was struggling with their native website UI, there were 3000+ records of CDs available but categorising and listing them all in a neat way was next to impossible. [Built a tool in an afternoon and away we go](https://github.com/MrEessa/sheffieldlibrary)! 
+
+---
+
 ## What I'm Listening To
 
 [Lenny's Podcast](https://www.lennysnewsletter.com/podcast)
