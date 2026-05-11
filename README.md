@@ -1,34 +1,44 @@
-# Hi, I'm Eessa 👋
+# Hey, I'm Eessa 👋
 
-**Head of Product Strategy @ S&P Global** - I am a product builder currently focusing on registry infrastructure for carbon and renewable energy markets.
+PM by trade. I write some code too, which changes how I do the PM part.
+ 
+I product strategy (and love all things strategy) at S&P Global. Following an education in the environmental and energy field, my domain for the last ten years has been in the carbon and renewable energy markets. Regulated, technical, B2B. 
+ 
+I'm increasingly hands-on with AI adoption - embedding it into what I build, using it to reshape how I work and deliver, and applying it in my own leadership practice. With Claude Code and Cursor or Lovable, I'm prototyping faster and getting to something tangible. What used to take days or even weeks, I'm now handling in a few hours.
+ 
+As a product builder, the technical decisions underneath a roadmap matter to me. 
+ 
+---
+ 
+## What I've Worked On
+ 
+- **Carbon and renewable energy registries** — I-REC(E), Article 6, ICVCM, CORSIA, multi-attribute certificate platforms operating across 60+ countries
+- **API-led growth** — took a partner programme from 5 players to 50 multinationals
+- **0→1 product launches** — compliance-grade infrastructure in markets with no margin for error
+- **AI-accelerated prototyping** — cutting the gap between an idea and something stakeholders can react to
+---
 
-10 years in the UK sustainability sector, with a more recent focus on scaling B2B SaaS in regulated markets. I've launched 0→1 products, grown platforms to £17.6M revenue, and expanded market presence across 60+ countries. Currently upskilling in Python and Go, and using AI tools (Claude Code, Cursor, Lovable) to build on ideas and iterate.
+## Things I Think About
+
+- Where the PM role ends and the builder role begins, and whether that distinction still holds today in the age of AI-augmented tools
+- What AI-assisted prototyping actually changes about product discovery, versus what it just speeds up
+- Registry infrastructure as a design problem: certificate lifecycles, audit trails, API contracts, multi-jurisdiction data models
+- How to build in regulated markets without using regulation as an excuse not to ship
+ ---
+ 
+## Stack
+ 
+`Python` `SQL` `Figma` `Cursor` `Claude Code` `VS Code` `Azure DevOps` `Lovable` `Vercel`
+ 
+---
+
+## What I'm Listening To
+
+[Lenny's Podcast](https://www.lennysnewsletter.com/podcast)
 
 ---
 
-## 🔧 What I've Worked On
-
-- **Environmental registry platforms** - carbon standards, I-REC(E), multi-attribute certificate registries
-- **Compliance-grade product strategy** - Article 6, ICVCM, voluntary carbon markets
-- **API-led product development** - grew an API partner programme from 5 → 50 market players
-- **AI-accelerated prototyping** - cutting stakeholder validation cycles from days to hours
-- **Side projects** - bootstrapping a B2B micro-SaaS using AI-assisted engineering
-
----
-
-## 🛠 Tools & Stack
-
-`Python (continuously improving)` `SQL` `Go (learning)` `Figma` `Cursor` `Claude Code` `Vercel` `Lovable` `VS Code` `Azure DevOps` `JIRA` `Lucid` `Miro`
-
-## 🎧 Core Competencies
-
-`Strategy & Vision` `Product Builder` `Product-led Growth` `GTM Strategy` `Market Analysis` `M&A Integration` `Regulatory Compliance` `Roadmap Planning`
-
----
-
-## 📫 Find Me
+ 
+## Find Me
 
 [LinkedIn](https://linkedin.com/in/eessamansoor)
-
-[![DevDNA](https://thedevdna.vercel.app/api/dev-dna?username=Mreessa&theme=synthwave)](https://thedevdna.vercel.app)
-
