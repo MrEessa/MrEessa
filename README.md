@@ -4,9 +4,9 @@ PM by trade. I write some code too, which changes how I do the PM part.
  
 I lead product strategy (and love building strategy!) at S&P Global. Following my education in the environmental and energy fields, my domain for the last ten years has been in the carbon and renewable energy markets. Regulated, technical, B2B. 
  
-I'm increasingly hands-on with AI adoption - embedding it into what I build both professionally and for personal project. It's reshaped how I work and deliver and I've taken great strides to apply it when working cross-functionally. With Claude Code and Cursor or Lovable, I'm prototyping faster and what used to take days or even weeks, I'm now handling in a few hours.
+I'm increasingly hands-on with AI adoption (Claude Code, Cursor, Lovable) - embedding it into what I build both professionally and for personal projects. It's reshaped how I work and deliver and I've taken great strides to apply it when working cross-functionally.
  
-Nevertheless, as a product builder, the technical decisions underneath my product roadmaps matter a great deal to me. 
+As a product builder, the technical decisions underneath my product roadmaps matter a great deal to me. Just because you could doesn't mean you should and that's where my skillset as a PM comes in - it's possible to build just about anything, the key is building what the customer and the market would actually use. 
  
 ---
  
