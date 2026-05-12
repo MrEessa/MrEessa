@@ -1,6 +1,6 @@
 # Hey, I'm Eessa 👋
 
-PM by trade. I write some code too, which changes how I do the PM part.
+PM by trade. I dabble writing some code too, which changes how I do the PM part.
  
 I lead product strategy (and love building strategy!) at S&P Global. Following my education in the environmental and energy fields, my domain for the last ten years has been in the carbon and renewable energy markets. Regulated, technical, B2B. 
  
