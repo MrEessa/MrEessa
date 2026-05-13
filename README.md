@@ -1,8 +1,8 @@
 # Hey, I'm Eessa 👋
 
-PM by trade. I dabble writing some code too, which changes how I do the PM part.
+Product Management by trade.
  
-I lead product strategy (and love building strategy!) at S&P Global. Following my education in the environmental and energy fields, my domain for the last ten years has been in the carbon and renewable energy markets. Regulated, technical, B2B. 
+My focus is on product strategy (and I really enjoy strategy!) at S&P Global. Following my education in the environmental and energy fields, my domain for the last ten years has been in the carbon and renewable energy markets. Regulated, technical, B2B. 
  
 I'm increasingly hands-on with AI adoption (Claude Code, Cursor, Lovable) - embedding it into what I build both professionally and for personal projects. It's reshaped how I work and deliver and I've taken great strides to apply it when working cross-functionally.
  
