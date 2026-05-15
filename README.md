@@ -1,6 +1,6 @@
 # Hey, I'm Eessa 👋
 
-Product Management in the Energy and Sustainability sectors by trade.
+Product Management in the Energy and Sustainability sectors by trade.  
  
 My focus is on product strategy (and I really enjoy strategy!) at S&P Global. Following my education in the environmental and energy fields, my domain for the last ten years has been in the carbon and renewable energy markets. Regulated, technical, B2B. 
  
